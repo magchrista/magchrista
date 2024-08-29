@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="uubvkQ-EZH9i1Xo36w5T">
-    <mxGraphModel dx="1440" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="985" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,19 +133,34 @@
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-44" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="546" y="668" width="47" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-45" target="OTOWTnrWBPmuxcwwUDZx-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-45" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="153" y="1162" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-46" value="c)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="109" y="1127" width="28" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="OTOWTnrWBPmuxcwwUDZx-47" value="var sqFt&lt;div&gt;var cost&lt;/div&gt;&lt;div&gt;var fee&lt;/div&gt;&lt;div&gt;var estimate&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-47" target="OTOWTnrWBPmuxcwwUDZx-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-47" value="var sqFt&lt;div&gt;var cost = 20&lt;/div&gt;&lt;div&gt;var fee = 5&lt;/div&gt;&lt;div&gt;var estimate&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="153" y="1263" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-48" target="OTOWTnrWBPmuxcwwUDZx-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-48" target="OTOWTnrWBPmuxcwwUDZx-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-48" value="if sqFt &amp;gt;= 7500&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="153" y="1464" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OTOWTnrWBPmuxcwwUDZx-49" value="sqFt = &quot;What is the sqare footage of your yard?&quot;&lt;div&gt;input cost&lt;/div&gt;&lt;div&gt;input fee&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-49" target="OTOWTnrWBPmuxcwwUDZx-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-49" value="sqFt = &quot;What is the sqare footage of your yard?&quot;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="124.5" y="1364" width="137" height="79" as="geometry" />
         </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-50" target="OTOWTnrWBPmuxcwwUDZx-28">
@@ -160,17 +175,41 @@
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-53" value="temp = &quot;What is the projected temperature for today?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="168" y="578" width="146" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="OTOWTnrWBPmuxcwwUDZx-57" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-57" target="OTOWTnrWBPmuxcwwUDZx-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="314" y="1596" />
+              <mxPoint x="243" y="1596" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-57" value="estimate = cost + fee" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="274" y="1464" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OTOWTnrWBPmuxcwwUDZx-59" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-59" target="OTOWTnrWBPmuxcwwUDZx-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="72" y="1599" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-59" value="estimate = cost" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="32" y="1464" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-60" value="Stop" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="1639" width="80" height="80" as="geometry" />
+          <mxGeometry x="142.5" y="1652" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OTOWTnrWBPmuxcwwUDZx-61" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="134" y="1562" width="120" height="60" as="geometry" />
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-61" value="output estimate" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1569" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-76" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1464" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-77" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116" y="1464" width="47" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.602;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-61" target="OTOWTnrWBPmuxcwwUDZx-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
