@@ -362,11 +362,23 @@
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-127" value="math = &quot;Would you like to add, subtract, multiply or divide?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="531" y="2510" width="132" height="83" as="geometry" />
         </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-129" target="OTOWTnrWBPmuxcwwUDZx-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-129" target="OTOWTnrWBPmuxcwwUDZx-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-129" value="if math == add" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="554" y="2619.5" width="86" height="86" as="geometry" />
         </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-130" value="answer = number + numberTwo" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="673" y="2622.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-135" target="OTOWTnrWBPmuxcwwUDZx-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-135" target="OTOWTnrWBPmuxcwwUDZx-136">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-135" value="if math == subtract" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="554" y="2732" width="86" height="86" as="geometry" />
@@ -374,17 +386,26 @@
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-136" value="answer = number - numberTwo" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="673" y="2735" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-137" target="OTOWTnrWBPmuxcwwUDZx-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-137" value="if math == multiply" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="557" y="2844" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-138" value="answer = number * numberTwo" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="673" y="2844" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-139" target="OTOWTnrWBPmuxcwwUDZx-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-139" value="if math == divide" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="557" y="2950" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OTOWTnrWBPmuxcwwUDZx-140" value="answer = number / numberTwo" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="673" y="2950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTOWTnrWBPmuxcwwUDZx-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.045;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OTOWTnrWBPmuxcwwUDZx-137" target="OTOWTnrWBPmuxcwwUDZx-138">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
